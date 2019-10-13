@@ -155,16 +155,23 @@ The study contains several analyses, as is typical for studies that report eye-m
 ### Dependent variables
 
 `path_power_transformed` - power-transformed (Box-Cox) gaze path length
+
 `pupil_power_transformed` - power-transformed (Box-Cox) average pupil size
+
 `order_of_access` - order of access of the respective interest area
+
 `first_dwell_power_transformed` - power-transformed (Box-Cox) first run dwell time (i.e., gaze duration)
+
 `total_dwell_power_transformed` - power-transformed (Box-Cox) total dwell duration (i.e., total fixation duration)
 
 ### Independent Variables
 
 `TrialScaled` - scaled (z-transformed) order of the trial
+
 `Category` - category of constructions (*natural* for naturalistic viewing; PREPOSITION: *typical* and *atypical*; VOICE: *active* and *passive*; DATIVE: *NP* and *PP*)
+
 `CanonicalFirst` - whether the canonical type of construction (*typical*, *active*, *NP*) is presented before its atypical pair (*atypical*, *passive*, *PP*); this is a binary or dummy coded variable
+
 `InterestArea` - interest area labels (*A*, *B*, *C*)
 
 ***Combined independent variables***
@@ -174,6 +181,7 @@ The study contains several analyses, as is typical for studies that report eye-m
 ### Random Effect Variables
 
 `Item` - experimental items (image/sentence)
+
 `Participant` - participant ID
 
 ***Combined random effect variables***
