@@ -12,7 +12,7 @@ The paper-package is split into `R` script files which are hosted on **GitHub**
 
     <HTTP>
 
-and the supporting datasets in `csv` format available at 
+and the supporting datasets in `csv` format are available at 
 
     https://doi.org/<XXX>
 
@@ -170,7 +170,7 @@ The study contains several analyses, as is typical for studies that report eye-m
 
 `Category` - category of constructions (*natural* for naturalistic viewing; PREPOSITION: *typical* and *atypical*; VOICE: *active* and *passive*; DATIVE: *NP* and *PP*)
 
-`CanonicalFirst` - whether the canonical type of construction (*typical*, *active*, *NP*) is presented before its atypical pair (*atypical*, *passive*, *PP*); this is a binary or dummy coded variable
+`CanonicalFirst` - whether the canonical construction (*typical*, *active*, *NP*) is presented before its atypical partner (*atypical*, *passive*, *PP*); this is a binary or dummy coded variable
 
 `InterestArea` - interest area labels (*A*, *B*, *C*)
 
