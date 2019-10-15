@@ -8,13 +8,13 @@ This repository contains scripts for the analyses reported in
 
     <HTTP>
 
-The paper-package is split into `R` script files which are hosted on **GitHub**
+The paper-package is split into `R` script files which are hosted here on **GitHub**
 
-    <HTTP>
+    https://github.com/ooominds/Construal_in_language
 
 and the supporting datasets in `csv` format are available at 
 
-    https://doi.org/<XXX>
+    https://doi.org/10.25500/edata.bham.00000385
 
 The study contains several analyses, as is typical for studies that report eye-movement data. Each part of the analysis is kept in a separate `R` script file and a corresponding data file. Script and data files parallel the analytic steps in the following order:
 
