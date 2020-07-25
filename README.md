@@ -182,4 +182,4 @@ The study contains several analyses, as is typical for studies that report eye-m
 
 - - -
 
-For further inquires contact: p.milin@bham.ac.uk
+For further inquiries contact: p.milin@bham.ac.uk
